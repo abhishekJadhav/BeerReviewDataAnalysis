@@ -34,3 +34,9 @@ nltk
 plotly
 contractions
 
+Instructions :
+## !pip install pyjanitor
+## !pip install spacy
+## !pip install pandas_profiling
+## !pip install contractions==0.0.18
+
