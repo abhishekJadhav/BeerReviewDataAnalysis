@@ -27,3 +27,10 @@ Questions:
 6.	How does written review compare to overall review score for the beer styles?
 7.	How do find similar beer drinkers by using written reviews only?
 
+Dependencies Libraries :
+pandas_profiling 
+spacy
+nltk
+plotly
+contractions
+
