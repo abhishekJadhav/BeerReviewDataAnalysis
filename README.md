@@ -17,7 +17,7 @@ review_profileName
 review_aroma	
 review_text	review_time
 
-Questions: 
+### Questions: 
 
 1.	Rank top 3 Breweries which produce the strongest beers?
 2.	Which year did beers enjoy the highest ratings? 
@@ -34,9 +34,9 @@ nltk
 plotly
 contractions
 
-Instructions :
-## !pip install pyjanitor
-## !pip install spacy
-## !pip install pandas_profiling
-## !pip install contractions==0.0.18
+#### Instructions :
+
+#### !pip install spacy
+#### !pip install pandas_profiling
+#### !pip install contractions==0.0.18
 
